@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.petadopt">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.PetAdopt">
+        <activity
+            android:name=".UserProfile"
+            android:exported="false" />
+        <activity
+            android:name=".uploadedpets"
+            android:exported="false" />
+        <activity
+            android:name=".uploadpet"
+            android:exported="false" />
+        <activity
+            android:name=".likedpets"
+            android:exported="false" />
+        <activity
+            android:name=".petselect"
+            android:exported="false" />
+        <activity
+            android:name=".loginpage"
+            android:exported="false" />
+        <activity
+            android:name=".interview"
+            android:exported="false"
+            android:label="@string/title_activity_interview"
+            android:theme="@style/Theme.PetAdopt.NoActionBar" />
+        <activity
+            android:name=".HoldPage"
+            android:exported="false" />
+        <activity
+            android:name=".survey3"
+            android:exported="false" />
+        <activity
+            android:name=".survey2"
+            android:exported="false" />
+        <activity
+            android:name=".survey"
+            android:exported="false" />
+        <activity
+            android:name=".page4"
+            android:exported="false" />
+        <activity
+            android:name=".page3"
+            android:exported="false" />
+        <activity
+            android:name=".Page2"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

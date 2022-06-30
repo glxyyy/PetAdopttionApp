@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "466989966525",
+    "firebase_url": "https://adoptionapppet-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "adoptionapppet",
+    "storage_bucket": "adoptionapppet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466989966525:android:25f182be774d733c9843d4",
+        "android_client_info": {
+          "package_name": "com.example.petadopt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466989966525-vk55mqfucfle8cmv7sol9sbut2so7e59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxS7YCH-kcXAepEkGBtFASTxQiSeuncRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466989966525-vk55mqfucfle8cmv7sol9sbut2so7e59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466989966525:android:e0ef698621be6ae89843d4",
+        "android_client_info": {
+          "package_name": "com.example.petadoptionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466989966525-vk55mqfucfle8cmv7sol9sbut2so7e59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxS7YCH-kcXAepEkGBtFASTxQiSeuncRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466989966525-vk55mqfucfle8cmv7sol9sbut2so7e59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466989966525:android:d6148e763e91ba0b9843d4",
+        "android_client_info": {
+          "package_name": "com.pet.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466989966525-vk55mqfucfle8cmv7sol9sbut2so7e59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxS7YCH-kcXAepEkGBtFASTxQiSeuncRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466989966525-vk55mqfucfle8cmv7sol9sbut2so7e59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

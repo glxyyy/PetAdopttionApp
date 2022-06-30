@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    >
+
+    <item android:id="@+id/UploadPet"
+        android:icon="@drawable/ic_baseline_pets_24"
+        android:title="Post Your Pet!"
+
+        />
+
+    <item android:id="@+id/UpdatePet"
+        android:icon="@drawable/ic_baseline_pets_24"
+        android:title="Update Pet Details"
+
+        />
+
+    <item android:id="@+id/UserProfile"
+        android:icon="@drawable/ic_baseline_pets_24"
+        android:title="Profile"
+
+        />
+
+</menu>
